@@ -66,7 +66,7 @@ making covering of 4 acres:
     - No differences observed.
 
 <p align="center">
-  <img width="600" height="600" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img1.png">
+  <img width="1000" height="600" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img1.png">
 </p>
 
 ## 4. Feature Engineering
