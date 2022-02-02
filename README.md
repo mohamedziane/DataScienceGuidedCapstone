@@ -66,7 +66,7 @@ making covering of 4 acres:
     - No differences observed.
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img1.png">
+  <img width="600" height="600" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img1.png">
 </p>
 
 ## 4. Feature Engineering
@@ -86,7 +86,7 @@ skiable terrain area is not as useful as the area with snow making. People seem 
 guaranteed snow cover rather than more variable terrain area.
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img2.png">
+  <img width="600" height="600" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img2.png">
 </p>
 
 **Feature Correlation Scatterplots**: Correlations, particularly viewing them together as a heatmap, can be a great first pass at identifying patterns. But correlation can mask relationships between two variables
@@ -96,7 +96,7 @@ guaranteed snow cover rather than more variable terrain area.
 - fastQuads seems very useful. Runs and total_chairs appear quite similar and also useful.
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img3.png">
+  <img width="600" height="600" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img3.png">
 </p>
 
 ## 4. Pre-Processing
@@ -141,5 +141,5 @@ operation costs.
 cost saving will be offset by a potential loss in revenue after closing more than one run.
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img4.png">
+  <img width="600" height="600" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img4.png">
 </p>
