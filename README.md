@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="600" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4CXRQ1pYaPVmSY4WVO9_USeNE8k68rW1gw&usqp=CAU">
+  <img width="600" height="400" src="https://www.frommers.com/system/photos/photos980/1541-61860.jpg">
 </p>
 
 ## 1. Introduction
