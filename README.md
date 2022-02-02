@@ -86,7 +86,7 @@ skiable terrain area is not as useful as the area with snow making. People seem 
 guaranteed snow cover rather than more variable terrain area.
 
 <p align="center">
-  <img width="600" height="600" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img2.png">
+  <img width="1000" height="600" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img2.png">
 </p>
 
 **Feature Correlation Scatterplots**: Correlations, particularly viewing them together as a heatmap, can be a great first pass at identifying patterns. But correlation can mask relationships between two variables
