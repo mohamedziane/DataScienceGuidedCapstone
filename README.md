@@ -96,7 +96,7 @@ guaranteed snow cover rather than more variable terrain area.
 - fastQuads seems very useful. Runs and total_chairs appear quite similar and also useful.
 
 <p align="center">
-  <img width="600" height="600" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img3.png">
+  <img width="1000" height="600" src="https://raw.githubusercontent.com/mohamedziane/DataScienceGuidedCapstone/master/images/img3.png">
 </p>
 
 ## 4. Pre-Processing
